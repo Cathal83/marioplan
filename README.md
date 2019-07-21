@@ -1,3 +1,6 @@
+To-do app based on React completed after following React tutorials by The Net Ninja.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
